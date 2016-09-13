@@ -6,7 +6,7 @@
 --   The "All spaces" option is useful for typesetters when they want each word on a new line.
 -- Second function puts a linebreak after the first word. Every new run of the function puts the linebreak one word further.
 --   When it reaches the last word, it removes the break.
--- Third function shifts linebreaks back and works line the 2nd.
+-- Third function shifts linebreaks back and works like the 2nd.
 -- You can bind each function to a different hotkey and combine them as needed.
 -- To bring up Setup, type 'setup' into the effect field.
 -- Manual: http://unanimated.xtreemhost.com/ts/scripts-manuals.htm#linebreak
